@@ -1,0 +1,12 @@
+{
+  "name": "boot",
+  "description": "start my app",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "jb55/domready": "*"
+  },
+  "local": []
+}

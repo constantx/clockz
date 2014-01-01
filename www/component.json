@@ -1,0 +1,10 @@
+{
+  "name": "clockz",
+  "description": "phonegap clock app",
+  "paths": [
+    "js"
+  ],
+  "local": [
+    "boot"
+  ]
+}
