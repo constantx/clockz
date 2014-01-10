@@ -1,7 +1,6 @@
-clockz
+OpenDashboard
 ======
-
-iOS clock app via phonegap
+Open-source dashboards and widgets for real time data visualization.
 
 
 ## development environment setup
